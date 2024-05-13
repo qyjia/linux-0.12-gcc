@@ -1,2 +1,13 @@
 *.html
 *.o
+*.a
+System.map
+boot/bootsect
+boot/setup
+boot/bootsect.s
+boot/setup.s
+kernel/chr_drv/keyboard.s
+tools/system
+.cache
+tags
+compile_commands.json

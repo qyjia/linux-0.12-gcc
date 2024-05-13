@@ -63,6 +63,12 @@ Manjaro安装：
 yaourt -S bin86
 ```
 
+Ubuntu:
+
+```bash
+sudo apt install bin86
+```
+
 ## gas no such file or directory
 
 ```bash
